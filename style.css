@@ -3,7 +3,7 @@
     margin: 0;
 
 }
-body{
+.head{
     background:  #f7bd94;
     margin: 0;
     padding: 0;
@@ -54,6 +54,7 @@ a{
     background-color: white;
     padding-left: 7px;
     padding-right: 7px;
+    hover
 }
 /* PAGE BODY  */
     .page-body{
